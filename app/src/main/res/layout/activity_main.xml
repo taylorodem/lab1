@@ -7,15 +7,15 @@
     tools:context="edu.up.cs371.odem20.myapplication.MainActivity">
 
     <TextView
-        android:layout_width="124dp"
-        android:layout_height="93dp"
-        android:layout_marginBottom="377dp"
+        android:layout_width="336dp"
+        android:layout_height="469dp"
+        android:layout_marginBottom="97dp"
         android:text="Wassup my dude"
         android:textAllCaps="false"
-        android:textSize="30sp"
+        android:textSize="60sp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.374"
+        app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent" />
 
